@@ -8,6 +8,7 @@ Workflow:
 -	Created realistic CSV datasets for each table
 -	Imported data directly into PostgreSQL
 -	Performed analytical queries to gain insights
+
 Sample Analyses:
 -	Top 5 most-ordered food items 
 -	Restaurants with highest average order value 
